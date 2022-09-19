@@ -5,11 +5,11 @@
 </div>
 <p align="center">
   by : 
-```
+
 <a href="https://www.facebook.com/100071637038126">~MrxMilzu•••
 SINCE 2018</a>
 
-```
+
 </p>
 <p align="center">
 ​
@@ -18,7 +18,6 @@ SINCE 2018</a>
 - [x] pilihan tergantung pada menu
 
 ### >>>Pilihan Menu
-```
 - [x] Mencari Luas persegi panjang,luas lingkaran, volume balok
 
 ### >>>INSTALLLATION FOR LINUX,UBUNTU,DEBIAN<<<
