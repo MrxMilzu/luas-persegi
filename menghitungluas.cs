@@ -9,6 +9,7 @@ namespace milzu_technicall_github_MrxMilzu_INGAT_JANGAN_RECODE_NTAR_EROR
     {
         static void Main(string[] args)
         {
+            Console.Clear();
             float luaspersegipanjang,panjang,lebar;
             Double luaslingkaran,r;
             float volbalok, p, l, t;
