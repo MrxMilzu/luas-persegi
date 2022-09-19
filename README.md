@@ -46,6 +46,34 @@ mcs menghitungluas.cs
 ```
 mono menghitungluas.exe
 ```
+### >>>INSTALLLATION FOR TERMUX<<
+```
+pkg update -y
+```
+```
+pkg upgrade -y
+```
+```
+pkg install git -y
+```
+```
+pkg install mono -y
+```
+```
+git clone https://github.com/MrxMilzu/csharp
+```
+```
+cd csharp
+```
+```
+ls
+```
+```
+csc menghitungluas.cs
+```
+```
+mono menghitungluas.exe
+```
 #### ➷ Follow Sosial Media
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/100071637038126)
 [![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/milzu_tc_hacker/)
