@@ -35,7 +35,7 @@ sudo apt install mono -y
 git clone https://github.com/MrxMilzu/csharp
 ```
 ```
-cd csharp
+cd luas-persegi
 ```
 ```
 ls
@@ -63,7 +63,7 @@ pkg install mono -y
 git clone https://github.com/MrxMilzu/csharp
 ```
 ```
-cd csharp
+cd luas-persegi
 ```
 ```
 ls
